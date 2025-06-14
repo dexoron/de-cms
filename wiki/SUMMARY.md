@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Index](README.md)
+
+## Information
+
+* [Social](information/social.md)
